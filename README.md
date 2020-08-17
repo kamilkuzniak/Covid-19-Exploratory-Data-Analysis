@@ -26,5 +26,7 @@ Usage
 -------------------
 * Open the COVID-19 Exploratory Data Analysis.ipynb file in the jupyter notebook
 * In the kernel menu click on 'Restart & run all'
-* Alternatively the notebook can be viewed in github or nbviewer
+* Alternatively the notebook can be viewed in github although it doesn't render the iplots
+* Thus a preferred method is to use the website https://nbviewer.jupyter.org
+* Once there you can just paste the github link to the notebook and it will render it 
 
